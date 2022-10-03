@@ -1,1 +1,1 @@
-What is git? Git is a place / holder 
+What is git? Git is an application that is used  to store or hold project which can be reviewed later. 
