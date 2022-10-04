@@ -1,1 +1,2 @@
 what is branch?
+Branch is the replica of main branch where we can edit any changes without disturning the main branch and once it get approved by other people we can merge the changes in main file. 
