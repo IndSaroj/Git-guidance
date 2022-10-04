@@ -1,1 +1,1 @@
-what is branch
+what is branch - Branch  is a relica of main branch where we can edit, add or make new changes in code. The we push this changes and make PR request. once it is verified and approved by other people they simply merge the code in main branch. 
